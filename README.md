@@ -1,6 +1,6 @@
 ## Chatbot App
 
-- This is a simple chatbot app built using Flask and the LangChain library. The app allows users to interact with a chatbot that uses the LLaMA 3.1 language model to respond to user queries.
+- This is a simple chatbot app built using Flask and the LangChain library. The app allows users to interact with a chatbot that uses the Llama 3.1 language model, running locally using Ollama, to respond to user queries.
 
 ### Features
 
